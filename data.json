@@ -1,0 +1,466 @@
+{
+  "sensor": [
+    {
+      "humidity": 25,
+      "temperature": 27.48555,
+      "timestamp": 24251,
+      "id": 1
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 15026,
+      "id": 2
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 30300,
+      "id": 3
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 45456,
+      "id": 4
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 60665,
+      "id": 5
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 75765,
+      "id": 6
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 90921,
+      "id": 7
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 106013,
+      "id": 8
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 121090,
+      "id": 9
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 136218,
+      "id": 10
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 151309,
+      "id": 11
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 166425,
+      "id": 12
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 181582,
+      "id": 13
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 196673,
+      "id": 14
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 211786,
+      "id": 15
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 226954,
+      "id": 16
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.39999962,
+      "timestamp": 242108,
+      "id": 17
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 257193,
+      "id": 18
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 272307,
+      "id": 19
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 287400,
+      "id": 20
+    },
+    {
+      "humidity": 48,
+      "temperature": 25.5,
+      "timestamp": 302516,
+      "id": 21
+    },
+    {
+      "humidity": 48,
+      "temperature": 25.5,
+      "timestamp": 317661,
+      "id": 22
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 332761,
+      "id": 23
+    },
+    {
+      "humidity": 49,
+      "temperature": 25.5,
+      "timestamp": 347847,
+      "id": 24
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 15026,
+      "id": 25
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 30404,
+      "id": 26
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 45513,
+      "id": 27
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 60645,
+      "id": 28
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 75765,
+      "id": 29
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 90897,
+      "id": 30
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 106073,
+      "id": 31
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 121216,
+      "id": 32
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 136319,
+      "id": 33
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 151500,
+      "id": 34
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 167110,
+      "id": 35
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 182532,
+      "id": 36
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 197688,
+      "id": 37
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 212793,
+      "id": 38
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 227894,
+      "id": 39
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 243102,
+      "id": 40
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 258207,
+      "id": 41
+    },
+    {
+      "hum": 50,
+      "temp": 25.5,
+      "timestamp": 273776,
+      "id": 42
+    },
+    {
+      "hum": 50,
+      "temp": 25.39999962,
+      "timestamp": 288982,
+      "id": 43
+    },
+    {
+      "hum": 49,
+      "temp": 25.39999962,
+      "timestamp": 304120,
+      "id": 44
+    },
+    {
+      "hum": 50,
+      "temp": 25.39999962,
+      "timestamp": 319261,
+      "id": 45
+    },
+    {
+      "hum": 51,
+      "temp": 25.5,
+      "timestamp": 334652,
+      "id": 46
+    },
+    {
+      "hum": 50,
+      "temp": 25.5,
+      "timestamp": 349927,
+      "id": 47
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 365157,
+      "id": 48
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 380306,
+      "id": 49
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 395421,
+      "id": 50
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 410548,
+      "id": 51
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 425663,
+      "id": 52
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 440831,
+      "id": 53
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 455951,
+      "id": 54
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 471159,
+      "id": 55
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 486586,
+      "id": 56
+    },
+    {
+      "hum": 50,
+      "temp": 25.5,
+      "timestamp": 501759,
+      "id": 57
+    },
+    {
+      "hum": 50,
+      "temp": 25.5,
+      "timestamp": 516875,
+      "id": 58
+    },
+    {
+      "hum": 49,
+      "temp": 25.5,
+      "timestamp": 532019,
+      "id": 59
+    },
+    {
+      "hum": 50,
+      "temp": 25.5,
+      "timestamp": 547181,
+      "id": 60
+    },
+    {
+      "hum": 50,
+      "temp": 25.5,
+      "timestamp": 562303,
+      "id": 61
+    },
+    {
+      "hum": 52,
+      "temp": 25.60000038,
+      "timestamp": 577427,
+      "id": 62
+    },
+    {
+      "hum": 52,
+      "temp": 25.60000038,
+      "timestamp": 15026,
+      "id": 63
+    },
+    {
+      "hum": 55,
+      "temp": 25.5,
+      "timestamp": 30142,
+      "id": 64
+    },
+    {
+      "hum": 53,
+      "temp": 25.5,
+      "timestamp": 45267,
+      "id": 65
+    },
+    {
+      "hum": 52,
+      "temp": 25.5,
+      "timestamp": 60408,
+      "id": 66
+    },
+    {
+      "hum": 56,
+      "temp": 25.39999962,
+      "timestamp": 75500,
+      "id": 67
+    },
+    {
+      "hum": 55,
+      "temp": 25.39999962,
+      "timestamp": 90619,
+      "id": 68
+    },
+    {
+      "hum": 55,
+      "temp": 25.39999962,
+      "timestamp": 105680,
+      "id": 69
+    },
+    {
+      "hum": 56,
+      "temp": 25.39999962,
+      "timestamp": 120829,
+      "id": 70
+    },
+    {
+      "hum": 54,
+      "temp": 25.39999962,
+      "timestamp": 135980,
+      "id": 71
+    },
+    {
+      "hum": 54,
+      "temp": 25.5,
+      "timestamp": 151273,
+      "id": 72
+    },
+    {
+      "hum": 54,
+      "temp": 25.5,
+      "timestamp": 166388,
+      "id": 73
+    },
+    {
+      "hum": 54,
+      "temp": 25.5,
+      "timestamp": 181485,
+      "id": 74
+    },
+    {
+      "hum": 54,
+      "temp": 25.5,
+      "timestamp": 196605,
+      "id": 75
+    },
+    {
+      "hum": 54,
+      "temp": 25.5,
+      "timestamp": 211685,
+      "id": 76
+    },
+    {
+      "hum": 52,
+      "temp": 25.5,
+      "timestamp": 226874,
+      "id": 77
+    }
+  ]
+}
